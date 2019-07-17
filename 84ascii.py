@@ -1,2 +1,2 @@
-a=input()
-print(ord(a))
+abc=input()
+print(ord(abc))
